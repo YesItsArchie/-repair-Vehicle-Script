@@ -3,7 +3,7 @@ Hello, welcome to the READ-ME File for this script, heres how to install it.
 STEP 1: In resoruces, make a folder called 'repaircar'
 STEP 2: in that folder, make a text document with the name, fxmanifest.lua and server.lua. (two diffirent ones) 
 STEP 3: paste the code from my 'fxmanifest.lua' file into your 'fxmanifest.lua' document.
-STEP 4: paste the code from my 'server.lua' file into your 'server.lua' document.
+STEP 4: paste the code from my 'repair.lua' file into your 'repair.lua' document.
 STEP 5: Find your 'Server.cfg' and open it, under your next ensure, paste this.....
 ----------------------
 ensure repaircar
